@@ -1,0 +1,13 @@
+Microsoft Windows [Versión 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
+
+C:\Users\Usuario>cd..
+
+C:\Users>cd..
+
+C:\>cd..\Program Files (x86)\CodeBlocks\Proyectos\hola\bin\Debug
+
+C:\Program Files (x86)\CodeBlocks\Proyectos\hola\bin\Debug>hola.exe
+Hola mundo
+
+C:\Program Files (x86)\CodeBlocks\Proyectos\hola\bin\Debug>
